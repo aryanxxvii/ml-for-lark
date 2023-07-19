@@ -1,0 +1,5 @@
+phonemizer
+librosa
+transformers
+torch
+strsimpy
